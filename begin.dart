@@ -1,8 +1,8 @@
 void main() {
-  print("Every person has hidden talent");
+  print("Do you know about git");
   sendText();
 }
 
 void sendText() {
-  print("HI Developers");
+  print("all is well");
 }
